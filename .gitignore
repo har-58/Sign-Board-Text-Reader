@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+data/input/*
+data/output/*
+models/*
+results/*
+.vscode/
+.ipynb_checkpoints/
